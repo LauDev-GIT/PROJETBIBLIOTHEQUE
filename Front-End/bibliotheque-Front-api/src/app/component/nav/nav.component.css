@@ -1,0 +1,28 @@
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link {
+  /*color: greenyellow;*/
+  color: white;
+  font-weight: 500;
+  border-top: 1px solid deepskyblue;
+  border-bottom: 1px solid deepskyblue;
+}
+.navbar.navbar-dark .navbar-nav .nav-item .nav-link:hover {
+  color: red;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+}
+.nga-navbar {
+  -webkit-box-shadow:
+    0 2px 5px 0 rgba(0, 0, 0, 0, 16),
+    0 11px 10px 0 rgba(0, 0, 0, 12);
+  box-shadow:
+    0 2px 5px 0 rgba(0, 0, 0, 0, 16),
+    0 11px 10px 0 rgba(0, 0, 0, 12);
+  background-color: deepskyblue;
+}
+.nga-logo {
+  font-size: 700;
+}
+
+.nga-logo:hover {
+  color: rgba(255, 255, 255, 0.75);
+}
