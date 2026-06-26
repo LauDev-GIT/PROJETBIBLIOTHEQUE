@@ -1,7 +1,7 @@
 # PROJETBIBLIOTHEQUE
 
 Installation Pour la realisation de ce Projet
--Angular version
+-Angular CLI version 18.2.3.
 -nodeJs v20.17.0.
 -Python
 -Vscode
