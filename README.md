@@ -1,13 +1,19 @@
 # PROJETBIBLIOTHEQUE
 
-Installation Pour la realisation de ce Projet
--Angular CLI version 18.2.3.
--nodeJs v20.17.0.
+Le but de ce projet est d'effectuer une liaison entre le (par le biais de la console)
+-Front-End
+et
+-le Back-End
+
+Utilisation de Vscode.
+
+Installation de :
 -Python
--Vscode
+-Angular cli
+Concernant le Back-End voir le fichier: (sur la branche dev)
+-requirements.txt
 
-# Projet :
+# Temps mis pour realiser ce projet
 
-Le but de ce projet est d'effectuer une connexion entre
-le Back-End (Angular) et le back-End (Python)
-le Back-End et la Base de donnee (mariadb)
+Back-End : 50 heures
+Front-End : 10 heures
